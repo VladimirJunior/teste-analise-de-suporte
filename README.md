@@ -55,14 +55,14 @@ Análise Inicial - Na aba de gerênciamento de usuário a seleção dos itens es
 
 Retorno para Cliente - Prezado, a sua solicitação foi recebida e será feita uma analise, em breve entraremos em contato para informar o prazo para resolução do problema.
 
-########################################################################################################
+##################################################################################################
 
 Questão 2
 Análise Inicial - Na aba de gerênciamento de usuários ao clicar no botão detalhes de qualquer usuário o mesmo acaba sendo selecionado.
 
 Retorno para Cliente - Prezado, a sua solicitação foi recebida e será feita uma analise, em breve entraremos em contato para informar o prazo para resolução do problema.
 
-########################################################################################################
+##################################################################################################
 
 Questão 3
 Análise Inicial - Foi visto que após clicar no botão detalhes em qualquer usuário listado a aplicação carrega o pop-up porém o mesmo não carrega nenhuma informação.
@@ -72,14 +72,14 @@ https://imgur.com/a/oyokxf0
 
 Retorno para Cliente - Prezado, a sua solicitação foi recebida, após analise a demanda foi encaminhada para nossa equipe de desenvolvimento e em breve entraremos em contato para informar o prazo para resolução do problema.
 
-########################################################################################################
+##################################################################################################
 
 Questão 4
 Análise Inicial -   O item citado pelo cliente não informa ao usuário que o valor está incorreto quando o valor é menor que 1.  
 
 Retorno para Cliente - Prezado, a sua solicitação foi recebida, será feita uma análise e em breve entraremos em contato para informar o prazo de resolução do problema.
 
-########################################################################################################
+##################################################################################################
 
 Questão 5
 Análise Inicial - Foi encontrado um problema na experiencia do usuário, quando a quote tiver um valor invalido o mesmo deve ser removido da lista de produtos selecionados e informado ao usuário.
